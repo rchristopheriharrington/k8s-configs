@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Updated dependencies to latest stable versions
 - Documented config options
+
+## 2026-04-22
+- Ran linter, applied auto-fixes
