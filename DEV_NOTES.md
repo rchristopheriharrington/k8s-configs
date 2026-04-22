@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-22
 - Ran linter, applied auto-fixes
+
+## 2026-04-22
+- Documented config options
+- Added CONTRIBUTING.md stub
