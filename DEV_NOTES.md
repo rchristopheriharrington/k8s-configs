@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Documented config options
 - Added CONTRIBUTING.md stub
+
+## 2026-05-13
+- Improved error handling in edge cases
+- Ran linter, applied auto-fixes
+- Refactored module structure for clarity
